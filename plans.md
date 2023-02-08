@@ -14,5 +14,5 @@ I will also realise "updates" as releases on GitHub.com as a way of tracing prog
 - > Write the rest of the story 
 
 
-###### Ok I don't have any jokes right now so
+###### Ok I don't have any good jokes right now so
 ###### What did the lazy tell his boss? "The Hello World! program is beginning to get a bit to big with all those whitespaces boss" then the boss says "Why are you so racist over white things Jack?"
