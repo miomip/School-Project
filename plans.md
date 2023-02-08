@@ -15,4 +15,4 @@ I will also realise "updates" as releases on GitHub.com as a way of tracing prog
 
 
 ###### Ok I don't have any good jokes right now so
-###### What did the lazy programmer tell his boss? "The Hello World! program is beginning to get a bit to big with all those whitespaces boss" then the boss says "Why are you so racist over white things Jack? You don't even want it in the Hello World! program"
+###### What did the lazy programmer tell his boss? "The Hello World! program is beginning to get a bit to big with all those whitespaces boss" then the boss says "Why are you so racist over white things Jack? You don't even want it in the Hello World! program!"
