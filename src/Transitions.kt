@@ -1,5 +1,5 @@
 fun Transitions() {
-    when (greenflag) {
+    when (!greenflag) {
         forever() {
             if (background.name = Underground2) {
                 if (x.position = 260) {

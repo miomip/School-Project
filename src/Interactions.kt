@@ -1,6 +1,6 @@
 fun Interactions() {
     fun textOnWall() {
-        when (greenflag) {
+        when (!greenflag) {
             forever() {
                 if (background.name = Underground1) {
                     if (distance(Sprite4) < 30) {
@@ -9,7 +9,7 @@ fun Interactions() {
                 }
             }
         }
-        when (greenflag){
+        when (!greenflag){
             if (background.name = Underground1){
                 sprite4.show
             }else{

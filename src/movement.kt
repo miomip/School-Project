@@ -1,10 +1,10 @@
 import src
-fun movement() {
+fun Movement() {
     val moving = 0
     val direction:Int
     val rotationStyle = left-right
     fun leftRight() {
-        when (greenflag) {
+        when (!greenflag) {
             forever() {
                 if (Key(A) or key(left - arrow)) {
                     setMoving = 1

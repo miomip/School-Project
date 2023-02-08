@@ -1,6 +1,6 @@
 fun Animations() {
     fun movementAnimation() {
-        when (greenflag) {
+        when (!greenflag) {
             forever() {
                 if (moving = 1) {
                     wait(0.2)
@@ -13,7 +13,7 @@ fun Animations() {
     }
 
     fun wall() {
-        when (greenflag) {
+        when (!greenflag) {
             forever() {
                 if (background.name = Underground2) {
                     sprite5.show
